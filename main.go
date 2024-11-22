@@ -1,6 +1,6 @@
 package main
 
-import "github.com/ngdangkietswe/swe-gateway-service/servers"
+import "github.com/hovanduanit/lms-proto/servers"
 
 func main() {
 	ginServer := servers.NewServer()

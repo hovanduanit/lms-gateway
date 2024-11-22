@@ -4,8 +4,8 @@ import (
 	"fmt"
 
 	"github.com/gin-gonic/gin"
-	"github.com/ngdangkietswe/swe-gateway-service/configs"
-	"github.com/ngdangkietswe/swe-gateway-service/servers/route"
+	"github.com/hovanduanit/lms-gateway/configs"
+	"github.com/hovanduanit/lms-gateway/servers/route"
 )
 
 type Server struct {

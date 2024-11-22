@@ -6,8 +6,8 @@ import (
 	"log"
 
 	"github.com/grpc-ecosystem/grpc-gateway/v2/runtime"
-	"github.com/ngdangkietswe/swe-gateway-service/configs"
-	gen "github.com/ngdangkietswe/swe-protobuf-shared/generated/task"
+	"github.com/hovanduanit/lms-gateway/configs"
+	gen "github.com/hovanduanit/lms-proto/generated/task"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials/insecure"
 )

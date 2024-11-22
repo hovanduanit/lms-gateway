@@ -8,7 +8,7 @@ import (
 	"github.com/felixge/httpsnoop"
 	"github.com/gin-gonic/gin"
 	"github.com/grpc-ecosystem/grpc-gateway/v2/runtime"
-	"github.com/ngdangkietswe/swe-gateway-service/servers/route/grpc"
+	"github.com/hovanduanit/lms-gateway/servers/route/grpc"
 )
 
 // WithLogger is a middleware to log request and response. This will log HTTP status code, duration and request path
